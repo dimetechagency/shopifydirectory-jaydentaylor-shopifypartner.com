@@ -1,0 +1,2 @@
+let e=function(e){return e.Error=`website_error_event/1.1`,e.Form=`website_form_event/2.0`,e.PrivacySignal=`website_privacy_signal/1.0`,e}({}),t=function(e){return e.ButtonClick=`button_click`,e.LinkClick=`link_click`,e.OutboundLinkClick=`outbound_link_click`,e.DropDownClick=`dropdown_click`,e.DropDownSelect=`dropdown_select`,e.InputSelect=`input_select`,e.ImageClick=`image_click`,e}({});export{t as n,e as t};
+//# sourceMappingURL=types-B3m9U22s.js.map

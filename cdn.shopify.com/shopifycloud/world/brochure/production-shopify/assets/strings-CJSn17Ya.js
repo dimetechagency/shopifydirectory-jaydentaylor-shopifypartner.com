@@ -1,0 +1,2 @@
+const e=(e,t)=>{let n=t?`/services/auth/logout`:`/services/identity/logout`,r=new URLSearchParams;return r.set(`return_to`,e),`${n}?${r.toString()}`},t=(e,t,n)=>{let r=new URL(e,`https://www.shopify.com`);n&&Object.entries(n).forEach(([e,t])=>{r.searchParams.append(e,t)});let i=r.toString(),a=t?`/services/auth/login`:`/services/identity/login`,o=new URLSearchParams;return o.set(`return_to`,i),`${a}?${o.toString()}`};export{e as n,t};
+//# sourceMappingURL=strings-CJSn17Ya.js.map

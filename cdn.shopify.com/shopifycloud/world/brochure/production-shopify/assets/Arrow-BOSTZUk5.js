@@ -1,0 +1,2 @@
+import{t as e}from"./jsx-runtime-DHrpvsUB.js";var t=e();function n(e){return(0,t.jsx)(`svg`,{fill:`none`,viewBox:`0 0 20 20`,"aria-hidden":`true`,...e,children:(0,t.jsx)(`path`,{stroke:`currentColor`,strokeLinecap:`round`,d:`m12.12 4.34 5.59 5.59a.1.1 0 0 1 0 .14l-5.59 5.59M17.78 10H2.22`})})}export{n as t};
+//# sourceMappingURL=Arrow-BOSTZUk5.js.map

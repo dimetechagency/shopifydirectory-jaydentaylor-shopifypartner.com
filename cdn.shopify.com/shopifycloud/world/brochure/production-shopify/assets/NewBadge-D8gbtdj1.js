@@ -1,0 +1,2 @@
+import{t as e}from"./jsx-runtime-DHrpvsUB.js";import{t}from"./useTranslations-Ccg09qVh.js";const n=16,r=10,i=6;var a=e();function o({copy:e}){let{t:n}=t(`pages/partners/directory/shared/translations`);return(0,a.jsx)(`span`,{className:`bg-[#F0F1F2] inline-block w-max py-1 px-2 font-bold rounded text-xs`,children:e??n(`listing.profileCard.new`)})}export{i,n,r,o as t};
+//# sourceMappingURL=NewBadge-D8gbtdj1.js.map

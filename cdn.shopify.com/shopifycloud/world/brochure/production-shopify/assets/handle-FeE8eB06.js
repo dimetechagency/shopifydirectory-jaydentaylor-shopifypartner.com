@@ -1,0 +1,2 @@
+import{w as e}from"./enums-BpOvEjvo.js";const t={theme:e.Foundation,shareImage:`https://cdn.shopify.com/b/shopify-brochure2-assets/cf167a71ca093ea0c5c2016a2c3c9392.png`};export{t};
+//# sourceMappingURL=handle-FeE8eB06.js.map

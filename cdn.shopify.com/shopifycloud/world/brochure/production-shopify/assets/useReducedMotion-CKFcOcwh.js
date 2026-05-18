@@ -1,0 +1,2 @@
+import{a as e}from"./chunk-BwMQFPjo.js";import{t}from"./react-CZh8lARz.js";var n=e(t()),r=(e=!0)=>{let[t,r]=(0,n.useState)(e);function i(e){r(e.matches)}return(0,n.useEffect)(()=>{let e=window.matchMedia(`(prefers-reduced-motion: reduce)`);if(e)return r(e.matches),e?.addEventListener?.(`change`,i),()=>e?.removeEventListener?.(`change`,i)},[]),t};export{r as t};
+//# sourceMappingURL=useReducedMotion-CKFcOcwh.js.map

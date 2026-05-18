@@ -1,0 +1,2 @@
+import{a as e}from"./chunk-BwMQFPjo.js";import{t}from"./react-CZh8lARz.js";var n=e(t());function r(){let[e,t]=(0,n.useState)(()=>!1);return(0,n.useEffect)(function(){t(!0)},[]),e}export{r as t};
+//# sourceMappingURL=useHydrated-BIgrJnvg.js.map

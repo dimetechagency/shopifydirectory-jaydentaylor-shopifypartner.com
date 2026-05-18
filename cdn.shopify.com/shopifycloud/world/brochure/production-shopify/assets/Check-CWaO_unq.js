@@ -1,0 +1,2 @@
+import{t as e}from"./jsx-runtime-DHrpvsUB.js";var t=e();function n(e){return(0,t.jsx)(`svg`,{fill:`none`,viewBox:`0 0 20 20`,"aria-hidden":`true`,...e,children:(0,t.jsx)(`path`,{stroke:`currentColor`,strokeLinecap:`round`,strokeLinejoin:`round`,d:`m6 10.5 3 3 6-6`})})}export{n as t};
+//# sourceMappingURL=Check-CWaO_unq.js.map

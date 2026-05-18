@@ -1,0 +1,2 @@
+import"./react-CZh8lARz.js";import{V as e,c as t}from"./chunk-EPOLDU6W-D89XZrRt.js";import{w as n}from"./enums-BpOvEjvo.js";import{t as r}from"./jsx-runtime-DHrpvsUB.js";var i=r();const a={theme:n.Foundation,bodyClass:`partners-directory`};var o=e(function(){return(0,i.jsx)(t,{})});export{o as default,a as handle};
+//# sourceMappingURL=layout-CF4Td0_1.js.map

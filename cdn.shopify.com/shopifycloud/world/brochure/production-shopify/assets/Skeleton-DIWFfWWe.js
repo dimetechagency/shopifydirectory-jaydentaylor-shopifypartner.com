@@ -1,0 +1,2 @@
+import{t as e}from"./jsx-runtime-DHrpvsUB.js";import{t}from"./twMerge-kRsXDExL.js";var n=e();function r({type:e,className:r}){return e===`circle`?(0,n.jsx)(`div`,{className:t(`rounded-full w-full h-full bg-gray-200 animate-pulse`,r)}):e===`rectangle`?(0,n.jsx)(`div`,{className:t(`rounded-md w-80 h-40 bg-gray-200 animate-pulse`,r)}):e===`text`?(0,n.jsx)(`div`,{className:t(`rounded-md bg-gray-200 w-full h-[1.1em] inline-block animate-pulse`,r)}):null}export{r as t};
+//# sourceMappingURL=Skeleton-DIWFfWWe.js.map

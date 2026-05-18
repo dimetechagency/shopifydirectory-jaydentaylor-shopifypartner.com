@@ -1,0 +1,2 @@
+import{t as e}from"./jsx-runtime-DHrpvsUB.js";import{t}from"./HeadingGroupCTA-CPD74qtb.js";import{n,t as r}from"./Col-BxXiJy1a.js";var i=e();function a({componentName:e=`section-header-button`,gridProps:a,...o}){let s={center:o.center,span:{xs:4,sm:8,md:10,lg:8,xl:8}};return(0,i.jsx)(n,{"data-component-name":e,...a,children:(0,i.jsx)(r,{...s,children:(0,i.jsx)(t,{...o})})})}export{a as t};
+//# sourceMappingURL=SectionHeading-BLvb7VQq.js.map

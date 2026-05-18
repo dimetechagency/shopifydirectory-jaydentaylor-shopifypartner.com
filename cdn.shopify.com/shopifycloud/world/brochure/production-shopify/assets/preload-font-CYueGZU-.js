@@ -1,0 +1,2 @@
+import{c as e}from"./enums-BpOvEjvo.js";function t(t){return{rel:`preload`,as:`font`,crossOrigin:`anonymous`,type:`font/woff2`,href:e[t]||`https://cdn.shopify.com/static/fonts/${t}`}}export{t};
+//# sourceMappingURL=preload-font-CYueGZU-.js.map

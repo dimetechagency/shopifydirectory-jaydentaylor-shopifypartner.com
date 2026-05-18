@@ -1,0 +1,2 @@
+import{g as e}from"./chunk-AD6N63BV-D67SlOeS.js";import{t}from"./types-B3m9U22s.js";const n=({extraMetadata:n})=>{let{trackers:r,store:i}=e();return{logError:e=>{console.error(e);let a={message:e?.message||`Unknown error`,stack:e?.stack||`Unknown stack`};if(i&&r){let{pageViewToken:e=``}=i,o={schemaId:t.Error,payload:{pageViewToken:e,message:JSON.stringify(a),stack:a.stack,extraMetadata:JSON.stringify({url:location.href,...n})}};r.dux(o)}}}};export{n as t};
+//# sourceMappingURL=useClientErrorTracker-CxDI61S0.js.map

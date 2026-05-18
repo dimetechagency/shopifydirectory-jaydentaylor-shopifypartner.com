@@ -1,0 +1,2 @@
+import{a as e}from"./chunk-BwMQFPjo.js";import{t}from"./react-CZh8lARz.js";var n=e(t());const r=e=>{let{pricingSite:t,pricing:n,geoPricingIsEnabled:r=!1}=e||{};return{pricingSite:t,pricing:n,geoPricingIsEnabled:r}},i=(0,n.createContext)({});function a(){return(0,n.useContext)(i)}export{r as n,a as r,i as t};
+//# sourceMappingURL=PricingData-CtXXR_Mp.js.map

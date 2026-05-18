@@ -1,0 +1,2 @@
+import{a as e}from"./chunk-BwMQFPjo.js";import{t}from"./react-CZh8lARz.js";var n=e(t());const r=(e,t)=>{(0,n.useEffect)(()=>{let n=n=>{n.key===e&&t(n)};return document.addEventListener(`keydown`,n),()=>{document.removeEventListener(`keydown`,n)}},[e,t])};export{r as t};
+//# sourceMappingURL=useKeyPress-BTD_HVPL.js.map
